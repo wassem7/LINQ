@@ -1,0 +1,15 @@
+C:\Users\Wassem Darkwa\Desktop\Learning\LinqTutorial\LinqTutorial\bin\Debug\net6.0\LinqTutorial.exe
+C:\Users\Wassem Darkwa\Desktop\Learning\LinqTutorial\LinqTutorial\bin\Debug\net6.0\LinqTutorial.deps.json
+C:\Users\Wassem Darkwa\Desktop\Learning\LinqTutorial\LinqTutorial\bin\Debug\net6.0\LinqTutorial.runtimeconfig.json
+C:\Users\Wassem Darkwa\Desktop\Learning\LinqTutorial\LinqTutorial\bin\Debug\net6.0\LinqTutorial.dll
+C:\Users\Wassem Darkwa\Desktop\Learning\LinqTutorial\LinqTutorial\bin\Debug\net6.0\LinqTutorial.pdb
+C:\Users\Wassem Darkwa\Desktop\Learning\LinqTutorial\LinqTutorial\obj\Debug\net6.0\LinqTutorial.csproj.AssemblyReference.cache
+C:\Users\Wassem Darkwa\Desktop\Learning\LinqTutorial\LinqTutorial\obj\Debug\net6.0\LinqTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wassem Darkwa\Desktop\Learning\LinqTutorial\LinqTutorial\obj\Debug\net6.0\LinqTutorial.AssemblyInfoInputs.cache
+C:\Users\Wassem Darkwa\Desktop\Learning\LinqTutorial\LinqTutorial\obj\Debug\net6.0\LinqTutorial.AssemblyInfo.cs
+C:\Users\Wassem Darkwa\Desktop\Learning\LinqTutorial\LinqTutorial\obj\Debug\net6.0\LinqTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Wassem Darkwa\Desktop\Learning\LinqTutorial\LinqTutorial\obj\Debug\net6.0\LinqTutorial.dll
+C:\Users\Wassem Darkwa\Desktop\Learning\LinqTutorial\LinqTutorial\obj\Debug\net6.0\refint\LinqTutorial.dll
+C:\Users\Wassem Darkwa\Desktop\Learning\LinqTutorial\LinqTutorial\obj\Debug\net6.0\LinqTutorial.pdb
+C:\Users\Wassem Darkwa\Desktop\Learning\LinqTutorial\LinqTutorial\obj\Debug\net6.0\LinqTutorial.genruntimeconfig.cache
+C:\Users\Wassem Darkwa\Desktop\Learning\LinqTutorial\LinqTutorial\obj\Debug\net6.0\ref\LinqTutorial.dll
