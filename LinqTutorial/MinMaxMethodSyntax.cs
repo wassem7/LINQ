@@ -2,7 +2,7 @@
 
 public class MinMaxMethodSyntax
 {
-    public static void Main()
+    public static void main()
     {
         int[] numbers = new[] { 1, 4, 5, 9, 2 };
         var persons = new[]
