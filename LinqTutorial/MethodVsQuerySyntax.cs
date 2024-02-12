@@ -2,7 +2,7 @@
 
 public class MethodVsQuerySyntax
 {
-    public static void Main()
+    public static void main()
     {
         int[] numbers = new[] { 2, 2, 3, 5, 6, 7, 8, 9 };
 
